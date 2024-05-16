@@ -33,5 +33,6 @@ This repository is a collection of my notes, code snippets, and links to my proj
 The folders are named as **mission_number**\_title > **module_number**\_title
 
 - Mission One : [TypeScript](https://github.com/ShakeefAhmedRakin/Next-Level-Web-Development-Notes/tree/main/01_TypeScript)
+- Mission Two : [Mongoose](https://github.com/ShakeefAhmedRakin/Next-Level-Web-Development-Notes/tree/main/02_MongoQueries)
 
 Feel free to explore the repository to reinforce your understanding of the concepts covered in the course.
