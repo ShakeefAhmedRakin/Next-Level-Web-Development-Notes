@@ -32,7 +32,7 @@ The course is structured using missions that have various modules to provide a s
 This repository is a collection of my notes, code snippets, and links to my project implementations based on the course curriculum. Each mission has modules in them. <br>
 The folders are named as **mission_number**\_title > **module_number**\_title
 
-- Mission One : [TypeScript](https://github.com/ShakeefAhmedRakin/Next-Level-Web-Development-Notes/tree/main/01_TypeScript)
-- Mission Two : [Mongoose](https://github.com/ShakeefAhmedRakin/Next-Level-Web-Development-Notes/tree/main/02_MongoQueries)
+- Mission One : [TypeScript](./01_TypeScript/)
+- Mission Two : [Mongoose](./02_MongoQueriesExpress/)
 
 Feel free to explore the repository to reinforce your understanding of the concepts covered in the course.
